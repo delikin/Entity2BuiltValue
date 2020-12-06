@@ -1,0 +1,13 @@
+{
+    "name": "dell/entity2value",
+    "description": "Conversor de Entidades de Symfony a Dart Built Value",
+    "authors": [
+        {
+            "name": "kingmetal66",
+            "email": "alexhip24@gmail.com"
+        }
+    ],
+    "require": {
+        "nikic/php-parser": "^4.10"
+    }
+}
